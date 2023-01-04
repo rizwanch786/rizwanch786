@@ -13,7 +13,7 @@
 rizwan = {
   'pronouns' : "He",
   'code' : ['Python', 'Odoo', 'OpenERP', 'Django', 'DRF', 'Selenium', 'HTML', 'CSS', 'JS', 'XML'],
-  'challenge': "I am doing the #100DaysOfCode challenge focused on Python, Django and Odoo"
+  'challenge' : "I am doing the #100DaysOfCode challenge focused on Python, Django and Odoo",
 }
 ```
 <p align="center" >

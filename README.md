@@ -18,7 +18,7 @@ rizwan = {
 ```
 <div class="row">
     <img  src="https://github-readme-stats.vercel.app/api?username=rizwanch786&&show_icons=true&theme=radical" height="195"/>
-    <img src="https://github.com/rizwanch786/rizwanch786/blob/main/1674146377380.gif" width="500" height="195">
+    <img src="https://github.com/rizwanch786/rizwanch786/blob/main/1674146377380.gif" width="200" height="195">
 </div>
 <p>
 <!--  <h2>Latest Tweets</h2>

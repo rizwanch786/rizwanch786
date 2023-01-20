@@ -16,9 +16,10 @@ rizwan = {
   'challenge' : "I am doing the #100DaysOfCode challenge focused on Python, Django and Odoo",
 }
 ```
-<p align="center" >
-    <img  src="https://github-readme-stats.vercel.app/api?username=rizwanch786&&show_icons=true&theme=radical"/>
-</p>
+<div class="row">
+    <img  src="https://github-readme-stats.vercel.app/api?username=rizwanch786&&show_icons=true&theme=radical" height="195"/>
+    <img src="https://github.com/rizwanch786/rizwanch786/blob/main/1674146377380.gif" width="500" height="195">
+</div>
 <p>
 <!--  <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/rizwangcsit"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=rizwangcsit&amp;layout=wide" alt="github-readme-twitter"></a></p> -->
@@ -28,5 +29,3 @@ rizwan = {
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
----

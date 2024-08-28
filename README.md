@@ -1,6 +1,6 @@
 <h2> Hi, I'm Muhammad Rizwan! <img src="https://media.giphy.com/media/hVh9kYorSATXYcmcww/giphy.gif" width="50" style="padding-top:5px;"></h2>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p>Python Consultant at <a href="https://www.bssuniversal.com/">BSS (Busniess Solutions & Services)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Odoo Developer Lead at <a href="https://www.bssuniversal.com/">BSS (Busniess Solutions & Services)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Muhammad Rizwan](https://img.shields.io/badge/-muhammad%20rizwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rizwan-5b202817a/)](https://www.linkedin.com/in/muhammad-rizwan-5b202817a/)

@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/hVh9kYorSATXYcmcww/giphy.gif" width="100" alt="wave animation" style="margin: 20px 0;"/>
 
   **Odoo Developer Lead | Enterprise Solutions Architect | Python Enthusiast**
+  
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=000086&center=true&vCenter=true&width=1500&lines=Helping+Businesses+Automate+with+Odoo;ERP+Implementation+Specialist;Technical+Consultant+%26+Project+Leader;Business+Process+Reengineering+Expert;Transforming+Ideas+into+Efficient+Systems;I+am+passionate+about+creating+robust+systems+that+solve+real-world+business+challenges.;+With+a+strong+foundation+in+Python+and+Odoo+ecosystems,;I+help+organizations+streamline+their+operations+and+achieve+digital+excellence."/>
+</p>
 
   <p>
     <a href="https://www.linkedin.com/in/muhammad-rizwan-5b202817a/">

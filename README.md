@@ -16,7 +16,7 @@ rizwan = {
 }
 ```
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"> <img src="https://github-readme-stats.vercel.app/api?username=rizwanch786&show_icons=true&theme=tokyonight&hide_border=true" height="195"/> <img src="https://github.com/rizwanch786/rizwanch786/blob/main/1674146377380.gif" width="200" height="195"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch786&layout=compact&theme=tokyonight&hide_border=true" height="195"/> </div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"> <img src="https://github-readme-stats.vercel.app/api?username=rizwanch786&show_icons=true&theme=tokyonight&hide_border=true" height="195"/> <img src="https://github.com/rizwanch786/rizwanch786/blob/main/1674146377380.gif" height="195"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch786&layout=compact&theme=tokyonight&hide_border=true" height="195"/> </div>
 
 I love connecting with different people! Feel free to say hi or reach out. 😊
 

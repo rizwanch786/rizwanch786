@@ -141,7 +141,7 @@ developer = MuhammadRizwan()
 
 <div align="center">
   <a href="https://github.com/rizwanch786">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rizwanch786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=58A6FF&icon_color=79C0FF&border_color=30363D" alt="GitHub Stats"/>
+    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"> <img src="https://github-readme-stats.vercel.app/api?username=rizwanch786&show_icons=true&theme=tokyonight&hide_border=true" height="195"/> <img src="https://github.com/rizwanch786/rizwanch786/blob/main/1674146377380.gif" width="200" height="195"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch786&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=58A6FF&border_color=30363D" alt="Top Languages"/>
   </a>
 </div>

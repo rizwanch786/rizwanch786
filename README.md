@@ -1,33 +1,25 @@
-<h2> Hi, I'm Muhammad Rizwan! <img src="https://media.giphy.com/media/hVh9kYorSATXYcmcww/giphy.gif" width="50" style="padding-top:5px;"></h2>
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p>Odoo Developer Lead at <a href="https://www.bssuniversal.com/">BSS (Busniess Solutions & Services)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Hi, I'm Muhammad Rizwan! 👋 <img src="https://media.giphy.com/media/hVh9kYorSATXYcmcww/giphy.gif" width="50">
 
-[![Linkedin: Muhammad Rizwan](https://img.shields.io/badge/-muhammad%20rizwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rizwan-5b202817a/)](https://www.linkedin.com/in/muhammad-rizwan-5b202817a/)
-[![GitHub rizwanch786](https://img.shields.io/github/followers/rizwanch786?label=follow&style=social)](https://github.com/rizwanch786/)
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
+### 👨‍💻 About Me
+I am an **Odoo Developer Lead** at [BSS (Business Solutions & Services)](https://www.bssuniversal.com/)  
+I love coding, solving problems, and connecting with people.  
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```Python
+```python
 rizwan = {
-  'pronouns' : "He",
-  'code' : ['Python', 'Odoo', 'OpenERP', 'Django', 'DRF', 'Selenium', 'HTML', 'CSS', 'JS', 'XML'],
-  'challenge' : "I am doing the #100DaysOfCode challenge focused on Python, Django and Odoo",
+    'pronouns': "He/Him",
+    'role': "Odoo Developer Lead",
+    'technologies': ['Python', 'Odoo', 'OpenERP', 'Django', 'DRF', 'Selenium', 'HTML', 'CSS', 'JS', 'XML'],
+    'current_challenge': "#100DaysOfCode focused on Python, Django & Odoo",
+    'hobbies': ["Coding", "Reading", "Gaming", "Networking"]
 }
 ```
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwanch786&show_icons=true&theme=radical" height="195"/>
-  <img src="https://github.com/rizwanch786/rizwanch786/blob/main/1674146377380.gif" width="200" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch786&layout=compact&theme=buefy&hide_border=true" height="195"/>
-</div>
 
-<p>
-<!--  <h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/rizwangcsit"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=rizwangcsit&amp;layout=wide" alt="github-readme-twitter"></a></p> -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"> <img src="https://github-readme-stats.vercel.app/api?username=rizwanch786&show_icons=true&theme=tokyonight&hide_border=true" height="195"/> <img src="https://github.com/rizwanch786/rizwanch786/blob/main/1674146377380.gif" width="200" height="195"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch786&layout=compact&theme=tokyonight&hide_border=true" height="195"/> </div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
+I love connecting with different people! Feel free to say hi or reach out. 😊
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rizwan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizwan-5b202817a/) [![GitHub](https://img.shields.io/badge/GitHub-rizwanch786-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizwanch786/) [![Twitter](https://img.shields.io/badge/Twitter-@rizwangcsit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rizwangcsit)
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />

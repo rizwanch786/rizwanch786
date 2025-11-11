@@ -98,7 +98,8 @@ class MuhammadRizwan:
             "backend": ["Python", "Django", "DRF", "Odoo", "OpenERP"],
             "frontend": ["HTML5", "CSS3", "JavaScript", "React"],
             "databases": ["PostgreSQL", "MySQL"],
-            "tools": ["Git", "Docker", "Selenium", "REST APIs"]
+            "tools": ["Git", "Selenium", "BS4", "REST APIs"],
+            "IDE": ["Pycharm", "VSCode"]
         }
 
     def current_mission(self):
@@ -130,8 +131,8 @@ developer = MuhammadRizwan()
 |-----------|--------|----------|
 | **Odoo Advanced Customization** | 🔄 Active | ████████░ 80% |
 | **Django & DRF Mastery** | 🔄 Active | ███████░░ 70% |
-| **Python Advanced Concepts** | 🔄 Active | ██████░░░ 60% |
-| **#100DaysOfCode Challenge** | 🚀 In Progress | ██████░░░ 65% |
+| **Python Advanced Concepts** | 🔄 Active | ████████░ 80% |
+| **#100DaysOfCode Challenge** | 🚀 In Progress | ███████░░ 70% |
 
 </div>
 

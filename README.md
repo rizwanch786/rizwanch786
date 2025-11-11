@@ -125,7 +125,7 @@ developer = MuhammadRizwan()
 
 ## 🎓 Current Learning & Challenges
 
-<div align="center">
+<div align="left">
 
 | Focus Area | Status | Progress |
 |-----------|--------|----------|
@@ -157,24 +157,24 @@ developer = MuhammadRizwan()
 
 <table>
   <tr>
-    <td><strong>✨ Odoo Development</strong></td>
-    <td>Custom module development, business process automation, enterprise integration</td>
+    <td align="left"><strong>✨ Odoo Development</strong></td>
+    <td align="left">Custom module development, business process automation, enterprise integration</td>
   </tr>
   <tr>
-    <td><strong>🔧 Backend Architecture</strong></td>
-    <td>RESTful APIs, microservices design, database optimization</td>
+    <td align="left"><strong>🔧 Backend Architecture</strong></td>
+    <td align="left">RESTful APIs, microservices design, database optimization</td>
   </tr>
   <tr>
-    <td><strong>📊 System Integration</strong></td>
-    <td>ERP customization, third-party integrations, data migration</td>
+    <td align="left"><strong>📊 System Integration</strong></td>
+    <td align="left">ERP customization, third-party integrations, data migration</td>
   </tr>
   <tr>
-    <td><strong>🧩 Problem Solving</strong></td>
-    <td>Complex business logic implementation, performance optimization</td>
+    <td align="left"><strong>🧩 Problem Solving</strong></td>
+    <td align="left">Complex business logic implementation, performance optimization</td>
   </tr>
   <tr>
-    <td><strong>📚 Code Quality</strong></td>
-    <td>Clean architecture, SOLID principles, comprehensive testing</td>
+    <td align="left"><strong>📚 Code Quality</strong></td>
+    <td align="left">Clean architecture, SOLID principles, comprehensive testing</td>
   </tr>
 </table>
 
@@ -232,5 +232,7 @@ I'm always excited to:
 
   <sub>🌱 Always growing, always learning, always building something amazing!</sub>
 
-  <sub>Last Updated: 2024</sub>
+  <p align="center">
+  <sub>© 2025 Muhammad Rizwan. All rights reserved.</sub>
+</p>
 </div>

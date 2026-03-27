@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>
-      <strong>🏢 Current Role:</strong> Odoo Developer Lead @ <a href="https://www.interconnectiontech.com/">ICT</a><br/>
+      <strong>🏢 Current Role:</strong> Cheif Technology Officer @ <a href="https://www.interconnectiontech.com/">ICT</a><br/>
       <strong>🎯 Specialization:</strong> Enterprise Solutions & Odoo Customization<br/>
       <strong>💻 Expertise:</strong> Backend Development, System Integration<br/>
       <strong>🌍 Location:</strong> Pakistan

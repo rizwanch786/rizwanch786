@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>
-      <strong>🏢 Current Role:</strong> Odoo Developer Lead @ <a href="https://www.bssuniversal.com/">BSS</a><br/>
+      <strong>🏢 Current Role:</strong> Odoo Developer Lead @ <a href="https://www.interconnectiontech.com/">Interconnection Technoloogies</a><br/>
       <strong>🎯 Specialization:</strong> Enterprise Solutions & Odoo Customization<br/>
       <strong>💻 Expertise:</strong> Backend Development, System Integration<br/>
       <strong>🌍 Location:</strong> Pakistan
@@ -96,7 +96,7 @@ class MuhammadRizwan:
         self.name = "Muhammad Rizwan"
         self.pronouns = "He/Him"
         self.title = "Odoo Developer Lead"
-        self.company = "BSS - Business Solutions & Services"
+        self.company = "ICT - Interconnection Technologies"
 
         self.expertise = {
             "backend": ["Python", "Django", "DRF", "Odoo", "OpenERP"],
@@ -237,6 +237,6 @@ I'm always excited to:
   <sub>🌱 Always growing, always learning, always building something amazing!</sub>
 
   <p align="center">
-  <sub>© 2025 Muhammad Rizwan. All rights reserved.</sub>
+  <sub>© 2026 Muhammad Rizwan. All rights reserved.</sub>
 </p>
 </div>

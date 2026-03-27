@@ -33,7 +33,7 @@
       <strong>🏢 Current Role:</strong> Cheif Technology Officer @ <a href="https://www.interconnectiontech.com/">ICT</a><br/>
       <strong>🎯 Specialization:</strong> Enterprise Solutions & Odoo Customization<br/>
       <strong>💻 Expertise:</strong> Backend Development, System Integration<br/>
-      <strong>🌍 Location:</strong> Pakistan
+      <strong>🌍 Location:</strong> Lahore, Pakistan, Punjab, 54000
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding animation"/>
